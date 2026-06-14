@@ -147,7 +147,7 @@ h2 { font-size: clamp(1.8rem, 3.5vw, 2.6rem); font-weight: 700; margin-bottom: 1
 .contact-form {
   background: var(--white); padding: 40px; border-radius: var(--radius); box-shadow: var(--shadow);
 }
-/*
+
 .form-group { margin-bottom: 20px; }
 .form-group label { display: block; font-weight: 500; margin-bottom: 8px; color: var(--dark); font-size: .95rem; }
 .form-group input, .form-group textarea {
@@ -161,7 +161,7 @@ h2 { font-size: clamp(1.8rem, 3.5vw, 2.6rem); font-weight: 700; margin-bottom: 1
 .contact-form .btn { width: 100%; }
 .form-status { margin-top: 16px; text-align: center; font-weight: 500; min-height: 24px; }
 .form-status.success { color: var(--green); }
-.form-status.error { color: #dc2626; } */
+.form-status.error { color: #dc2626; } 
 
 
 /* Footer */
